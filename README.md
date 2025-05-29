@@ -10,6 +10,8 @@ Tudo será executado em duas máquinas reais (ou virtuais), comunicando-se pela 
 
 ![image](https://github.com/user-attachments/assets/606097ac-87da-4c2f-a040-eddd4e25a2ce)
 
-Client-Side
+Client-Side UDP
 ![image](https://github.com/user-attachments/assets/3ca60886-d758-4871-9bd6-aebb1db3f77a)
+Client-Side TCP
+![image](https://github.com/user-attachments/assets/46d53d08-ea23-4d95-9249-765a358a592d)
 
