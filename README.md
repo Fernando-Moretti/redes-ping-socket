@@ -9,3 +9,6 @@
 Tudo será executado em duas máquinas reais (ou virtuais), comunicando-se pela rede local (LAN) ou Wi-Fi.
 
 ![image](https://github.com/user-attachments/assets/606097ac-87da-4c2f-a040-eddd4e25a2ce)
+
+Client-side
+![image](https://github.com/user-attachments/assets/d9bb1140-1910-41b1-ad1d-a2dd121d2c11)
